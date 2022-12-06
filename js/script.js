@@ -11,3 +11,7 @@ mainEl.style.backgroundColor = 'var(--main-bg)';
 // Task 1.2
 
 mainEl.innerHTML= '<h1>SEIR Rocks!</h1>';
+
+//Task.1.3
+
+mainEl.classList.add('flex-ctr');
