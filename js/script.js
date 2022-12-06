@@ -24,3 +24,7 @@ console.log(topMenuEl);
 // Task 2.1
 
 topMenuEl.style.height = '100%';
+
+// Task 2.2
+
+topMenuEl.style.backgroundColor = 'var(--top-menu-bg)';
